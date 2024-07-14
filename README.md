@@ -1,6 +1,5 @@
 =====================================================
 Darkling Clicker - Customizable Auto-Clicker
-=====================================================
 
 Darkling Clicker is a Python-based auto-clicker developed by FLQMZECLIENT. This project enables users to automate mouse clicks with customizable settings for interval, button selection, and click count. Designed over a span of three months, Darkling Clicker aims to provide a straightforward yet powerful tool for automating repetitive clicking tasks.
 
